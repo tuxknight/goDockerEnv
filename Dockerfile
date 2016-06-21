@@ -10,5 +10,5 @@ RUN go get github.com/labstack/echo && \
     go get github.com/chanxuehong/wechat/corp && \
     go get github.com/bitly/go-simplejson && \
     go get github.com/alecthomas/log4go && \
-    github.com/dgrijalva/jwt-go && \
-    github.com/valyala/fasthttp
+    go get github.com/dgrijalva/jwt-go && \
+    go get github.com/valyala/fasthttp
